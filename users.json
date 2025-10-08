@@ -5,12 +5,6 @@
       "password": "1",
       "createdAt": "2025-10-08T14:08:05.914Z",
       "expireTime": "1440"
-    },
-    {
-      "username": "12",
-      "password": "1",
-      "createdAt": "2025-10-08T14:11:44.217Z",
-      "expireTime": "permanent"
     }
   ]
 }
