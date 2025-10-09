@@ -5,6 +5,12 @@
       "password": "1",
       "createdAt": "2025-10-09T15:35:11.742Z",
       "expireTime": "1440"
+    },
+    {
+      "username": "buyer1",
+      "password": "1",
+      "createdAt": "2025-10-09T15:37:36.335Z",
+      "expireTime": "43200"
     }
   ]
 }
