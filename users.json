@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "jembod",
-      "password": "1",
-      "createdAt": "2025-10-09T15:40:45.141Z",
-      "expireTime": "1440"
-    },
-    {
       "username": "jembod1",
       "password": "1",
       "createdAt": "2025-10-10T05:28:19.093Z",
