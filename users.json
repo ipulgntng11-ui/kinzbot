@@ -5,12 +5,6 @@
       "password": "1",
       "createdAt": "2025-10-10T15:50:43.052Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "jovan",
-      "password": "jovan123",
-      "createdAt": "2025-10-11T06:29:21.504Z",
-      "expireTime": "43200"
     }
   ]
 }
