@@ -23,12 +23,6 @@
       "password": "ikram",
       "createdAt": "2025-10-14T15:14:30.924Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "ikramm",
-      "password": "ikram0",
-      "createdAt": "2025-10-14T15:16:34.306Z",
-      "expireTime": "10080"
     }
   ]
 }
