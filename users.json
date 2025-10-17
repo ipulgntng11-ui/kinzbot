@@ -2,9 +2,24 @@
   "users": [
     {
       "username": "jembod1",
-      "password": "1",
-      "createdAt": "2025-10-15T23:10:44.082Z",
-      "expireTime": "1440"
+      "password": "1,",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "expireTime": "permanent",
+      "isAdmin": true
+    },
+    {
+      "username": "user1",
+      "password": "pass1",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "expireTime": "1440",
+      "isAdmin": false
+    },
+    {
+      "username": "user2",
+      "password": "pass2",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "expireTime": "permanent",
+      "isAdmin": false
     }
   ]
 }
