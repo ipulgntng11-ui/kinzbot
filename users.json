@@ -6,12 +6,6 @@
       "createdAt": "2024-01-01T00:00:00.000Z",
       "expireTime": "permanent",
       "isAdmin": true
-    },
-    {
-      "username": "ipul",
-      "password": "1",
-      "createdAt": "2025-10-17T08:45:11.852Z",
-      "expireTime": "permanent"
     }
   ]
 }
