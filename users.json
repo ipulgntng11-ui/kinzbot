@@ -6,20 +6,6 @@
       "createdAt": "2024-01-01T00:00:00.000Z",
       "expireTime": "permanent",
       "isAdmin": true
-    },
-    {
-      "username": "user1",
-      "password": "pass1",
-      "createdAt": "2024-01-01T00:00:00.000Z",
-      "expireTime": "1440",
-      "isAdmin": false
-    },
-    {
-      "username": "user2",
-      "password": "pass2",
-      "createdAt": "2024-01-01T00:00:00.000Z",
-      "expireTime": "permanent",
-      "isAdmin": false
     }
   ]
 }
